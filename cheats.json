@@ -7,7 +7,9 @@
       "url": "https://dashboard.company.com",
       "owner": "TechCorp Solutions",
       "status": "production",
-      "tags": ["React", "Node.js", "MongoDB"]
+      "tags": ["React", "Node.js", "MongoDB"],
+      "legit": true,
+      "rage": false
     },
     {
       "name": "Mobile Banking App", 
@@ -16,7 +18,9 @@
       "url": "https://mobilebank.finance.com",
       "owner": "GlobalBank Inc.",
       "status": "beta",
-      "tags": ["Flutter", "Firebase", "Dart"]
+      "tags": ["Flutter", "Firebase", "Dart"],
+      "legit": true,
+      "rage": false
     },
     {
       "name": "AI Content Generator",
@@ -25,7 +29,9 @@
       "url": "https://aiwriter.tech",
       "owner": "InnovateAI Labs",
       "status": "development",
-      "tags": ["Python", "GPT-4", "TensorFlow"]
+      "tags": ["Python", "GPT-4", "TensorFlow"],
+      "legit": true,
+      "rage": false
     },
     {
       "name": "E-commerce Platform",
@@ -34,7 +40,9 @@
       "url": "https://shopnow.retail.com",
       "owner": "RetailGiant Corporation",
       "status": "production",
-      "tags": ["Ruby on Rails", "PostgreSQL", "Redis"]
+      "tags": ["Ruby on Rails", "PostgreSQL", "Redis"],
+      "legit": true,
+      "rage": false
     },
     {
       "name": "Healthcare Management System",
@@ -43,7 +51,9 @@
       "url": "https://medtrack.healthcare.org",
       "owner": "MediTech Solutions",
       "status": "staging",
-      "tags": ["Java", "Spring Boot", "MySQL"]
+      "tags": ["Java", "Spring Boot", "MySQL"],
+      "legit": true,
+      "rage": false
     }
   ]
 }
