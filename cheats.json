@@ -9,7 +9,12 @@
       "status": "Release",
       "tags": ["Alkad", "", ""],
       "legit": false,
-      "rage": true
+      "rage": true,
+      "images": [
+        "https://i.ibb.co/t8LRvzW/37609628-BD74-43-E2-8149-A46-F122917-FD.png",
+        "https://dashboard.company.com/superiority-screenshot1.jpg",
+        "https://dashboard.company.com/superiority-screenshot2.png"
+      ]
     },
     {
       "name": "Omega FREE", 
@@ -20,7 +25,11 @@
       "status": "Production",
       "tags": ["Alkad", "Rusticaland", ""],
       "legit": true,
-      "rage": false
+      "rage": false,
+      "images": [
+        "https://mobilebank.finance.com/omega-free-icon.jpg",
+        "https://i.ibb.co/t8LRvzW/37609628-BD74-43-E2-8149-A46-F122917-FD.png"
+      ]
     },
     {
       "name": "NAIM Neuronal",
@@ -31,7 +40,12 @@
       "status": "Working",
       "tags": ["Alkad", "Rusticaland", "etc..."],
       "legit": true,
-      "rage": false
+      "rage": false,
+      "images": [
+        "https://aiwriter.tech/naim-neuronal-image.png",
+        "https://i.ibb.co/t8LRvzW/37609628-BD74-43-E2-8149-A46-F122917-FD.png",
+        "https://aiwriter.tech/naim-neuronal-preview.gif"
+      ]
     },
     {
       "name": "Evolution.gg",
@@ -42,7 +56,11 @@
       "status": "Production",
       "tags": ["Alkad", "", ""],
       "legit": false,
-      "rage": true
+      "rage": true,
+      "images": [
+        "https://i.ibb.co/t8LRvzW/37609628-BD74-43-E2-8149-A46-F122917-FD.png",
+        "https://shopnow.retail.com/evolution-gg-banner.png"
+      ]
     }
   ]
 }
