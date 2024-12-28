@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DIAMOND RUST",
+    "ip": "78.46.56.44:21000",
+    "tags": ["X2/X8", "D-PASS", "MAX 3"],
+    "legit": true
+  },
+  {
+    "name": "OWER RUST #1",
+    "ip": "162.55.97.252:20540",
+    "tags": ["CLASSIC", "NOLIMIT", "X1"],
+    "legit": true
+  },
+  {
+    "name": "Hyper Rust X1000000",
+    "ip": "146.59.54.7:20560",
+    "tags": ["PVP", "LOOT+"],
+    "rage": true
+  },
+  {
+    "name": "[RU] #3 HyperRust",
+    "ip": "94.130.167.141:20910",
+    "tags": ["X1000000", "PVP", "Battlefield", "LOOT+", "Nolim"],
+    "rage": true
+  },
+  {
+    "name": "[RU] #1 Hyper Rust",
+    "ip": "188.40.34.169:20510",
+    "tags": ["x5"],
+    "rage": true
+  },
+  {
+    "name": "[RU] #2 Hyper Rust",
+    "ip": "78.46.56.22:20720",
+    "tags": ["X2", "Max4", "Trade", "TP"],
+    "legit": true
+  }
+]
