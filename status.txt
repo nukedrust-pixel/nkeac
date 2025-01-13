@@ -1,4 +1,4 @@
-nkeac_user1:nkeac_pass_80812526|banned
+nkeac_user1:nkeac_pass_80812526
 nkeac_user2:nkeac_pass_3%&35%86
 nkeac_user3:nkeac_pass_9094579&
 nkeac_user4:nkeac_pass_:969634%
