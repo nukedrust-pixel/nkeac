@@ -1,4 +1,4 @@
-nkeac_user1|banned
+nkeac_user1|premium
 nkeac_user2
 nkeac_user3
 nkeac_user4
